@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoinPurse</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="button">Button</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="textview">TextView</string>
+    <string name="time">Time</string>
+</resources>
